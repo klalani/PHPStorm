@@ -101,6 +101,12 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/wl_header.php" timestamp="1502747101480">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Http/routes.php" timestamp="1502669216654">
         <mark key="'" line="69" column="2" />
         <mark key="[" line="5" column="3" />
@@ -195,8 +201,8 @@
         <entry>1</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>!</entry>
-        <entry>w</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
