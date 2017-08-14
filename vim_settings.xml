@@ -1,0 +1,214 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/common/errors.blade.php" timestamp="1502686524516">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" timestamp="1502690278220">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="25" />
+        <mark key="^" line="98" column="25" />
+        <mark key="." line="98" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Providers/AppServiceProvider.php" timestamp="1502651747221">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/submit.blade.php" timestamp="1502690017535">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1502651156756">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/config/app.php" timestamp="1502739281957">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="63" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/tasks.blade.php" timestamp="1502689997894">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/config/database.php" timestamp="1502739110159">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="50" />
+        <mark key="." line="45" column="50" />
+        <mark key="^" line="45" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/factories/ModelFactory.php" timestamp="1502689241474">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2017_08_13_185653_create_tasks_table.php" timestamp="1502666536143">
+        <mark key="'" line="15" column="24" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/welcome.blade.php" timestamp="1502731477290">
+        <mark key="'" line="89" column="49" />
+        <mark key="[" line="87" column="38" />
+        <mark key="]" line="87" column="40" />
+        <mark key="^" line="87" column="40" />
+        <mark key="." line="87" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/seeds/LinksTableSeeder.php" timestamp="1502689051042">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/layouts/app.blade.php" timestamp="1502652957230">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/seeds/DatabaseSeeder.php" timestamp="1502689297716">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/.env" timestamp="1502739299929">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/seeds/TasksTableSeeder.php" timestamp="1502690121079">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Http/routes.php" timestamp="1502669216654">
+        <mark key="'" line="69" column="2" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="33" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2017_08_13_185653_create_tasks_table.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2017_08_13_185653_create_tasks_table.php" />
+      <jump line="15" column="24" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2017_08_13_185653_create_tasks_table.php" />
+      <jump line="43" column="2" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Http/routes.php" />
+      <jump line="14" column="7" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Http/routes.php" />
+      <jump line="21" column="2" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Http/routes.php" />
+      <jump line="0" column="2" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/welcome.blade.php" />
+      <jump line="85" column="49" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/welcome.blade.php" />
+      <jump line="34" column="9" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" />
+      <jump line="33" column="13" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>'</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+      <register name="/" type="4">
+        <text>submit</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdrZXknID0+IGVudignQVBQX0tFWScsJ3N4eHRkbm1wbWlvOXF0M3U5MDNpZDFmYTRtNjZ1eGhrJyksCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiBlbnYoJ0RCX1BBU1NXT1JEJywgJ3Rlc3QxMjMhJyksCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiBlbnYoJ0RCX1VTRVJOQU1FJywgJ2x0ZWNoc2NvX2dlbmllJyksCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGFiYXNlJyA9PiBlbnYoJ0RCX0RBVEFCQVNFJywgJ2x0ZWNoc2NvX2dlbmllJyksCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQknbmFtZScgPT4gJ3JlcXVpcmVkfG1heDI1NScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSR2YWxpZGF0b3IgPSB2YWxpZGF0b3I6Om1ha2UoJHJlcXVlc3QtPmFsbCgpLCBbCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLT53aXRoRXJyb3JzKCR2YWxpZGF0b3IpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJLT53aXRoSW5wdXQoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy8nKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>submit</last-search>
+      <last-offset />
+      <last-pattern>submit</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>task-nane</entry>
+        <entry>task</entry>
+        <entry>get</entry>
+        <entry>delete</entry>
+        <entry>document</entry>
+        <entry>docu</entry>
+        <entry>Docu</entry>
+        <entry>doc</entry>
+        <entry>submit</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>$</entry>
+        <entry>18</entry>
+        <entry>W</entry>
+        <entry>se ic nows</entry>
+        <entry>1</entry>
+        <entry encoding="base64">dyA=</entry>
+        <entry>!</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
