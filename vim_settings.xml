@@ -169,7 +169,7 @@
         <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy8nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -201,8 +201,8 @@
         <entry encoding="base64">IA==</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>$</entry>
         <entry>1</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
