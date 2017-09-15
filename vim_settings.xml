@@ -28,7 +28,6 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1504149260630" />
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1502774975652">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -170,7 +169,7 @@
         <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy8nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -202,8 +201,8 @@
         <entry encoding="base64">IA==</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>$</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
