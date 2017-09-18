@@ -51,8 +51,8 @@
         <mark key="." line="45" column="50" />
         <mark key="^" line="45" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" timestamp="1505705689195">
-        <mark key="'" line="237" column="89" />
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" timestamp="1505747077549">
+        <mark key="'" line="591" column="81" />
         <mark key="[" line="362" column="31" />
         <mark key="]" line="362" column="31" />
         <mark key="^" line="362" column="30" />
@@ -166,6 +166,11 @@
       <jump line="43" column="47" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
       <jump line="235" column="65" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
       <jump line="237" column="89" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="349" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="726" column="77" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="737" column="75" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="589" column="67" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="591" column="81" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -175,7 +180,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>sliderdes5</text>
+        <text>perma</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGZhY3RvcnktPmRlZmluZShBcHBcTGluazo6Y2xhc3MsIGZ1bmN0aW9uIChGYWtlclxHZW5lcmF0b3IgJGZha2VyKSB7CglyZXR1cm4gWwoJCSd0aXRsZScgPT4gJGZha2VyLT5uYW1lLAoJCSd1cmwnID0+ICRmYWtlci0+dXJsLAoJCSdkZXNjcmlwdGlvbicgPT4gJGZha2VyLT5wYXJhZ3JhcGgsCgldOwp9KTsK</text>
@@ -212,9 +217,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sliderdes5</last-search>
+      <last-search>perma</last-search>
       <last-offset />
-      <last-pattern>sliderdes5</last-pattern>
+      <last-pattern>perma</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -237,6 +242,9 @@
         <entry>button</entry>
         <entry>slider</entry>
         <entry>sliderdes5</entry>
+        <entry>Recent Posts</entry>
+        <entry>Recent</entry>
+        <entry>perma</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
