@@ -51,6 +51,13 @@
         <mark key="." line="45" column="50" />
         <mark key="^" line="45" column="50" />
       </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" timestamp="1505704782249">
+        <mark key="'" line="361" column="32" />
+        <mark key="[" line="362" column="31" />
+        <mark key="]" line="362" column="31" />
+        <mark key="^" line="362" column="30" />
+        <mark key="." line="362" column="31" />
+      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/factories/ModelFactory.php" timestamp="1502745915216">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="28" />
@@ -127,16 +134,36 @@
       <jump line="34" column="9" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" />
       <jump line="33" column="13" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/routes/web.php" />
+      <jump line="280" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="281" column="20" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="283" column="20" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="285" column="20" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="287" column="20" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="362" column="40" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="306" column="37" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="323" column="47" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="327" column="51" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="337" column="30" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="339" column="42" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="341" column="36" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="343" column="56" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="344" column="61" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="351" column="30" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="353" column="28" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="354" column="41" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="358" column="52" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="361" column="32" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Task</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>Task</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>compass_get_option</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGZhY3RvcnktPmRlZmluZShBcHBcTGluazo6Y2xhc3MsIGZ1bmN0aW9uIChGYWtlclxHZW5lcmF0b3IgJGZha2VyKSB7CglyZXR1cm4gWwoJCSd0aXRsZScgPT4gJGZha2VyLT5uYW1lLAoJCSd1cmwnID0+ICRmYWtlci0+dXJsLAoJCSdkZXNjcmlwdGlvbicgPT4gJGZha2VyLT5wYXJhZ3JhcGgsCgldOwp9KTsK</text>
@@ -169,13 +196,13 @@
         <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy8nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search>compass_get_option</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>compass_get_option</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -190,6 +217,8 @@
         <entry>Docu</entry>
         <entry>doc</entry>
         <entry>submit</entry>
+        <entry>esc_attr</entry>
+        <entry>compass_get_option</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -201,8 +230,8 @@
         <entry encoding="base64">IA==</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>$</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
