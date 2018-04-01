@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1522613765241">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" timestamp="1522615306237">
+        <mark key="'" line="25" column="61" />
+      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/common/errors.blade.php" timestamp="1502686524516">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
@@ -59,6 +62,9 @@
         <mark key="]" line="45" column="50" />
         <mark key="." line="45" column="50" />
         <mark key="^" line="45" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/index.php" timestamp="1522615249775">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" timestamp="1505747077549">
         <mark key="'" line="591" column="81" />
@@ -180,6 +186,14 @@
       <jump line="737" column="75" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
       <jump line="589" column="67" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
       <jump line="591" column="81" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" />
+      <jump line="1" column="2" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/index.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/index.php" />
+      <jump line="14" column="53" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
+      <jump line="15" column="63" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
+      <jump line="18" column="16" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
+      <jump line="20" column="66" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
+      <jump line="23" column="16" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
+      <jump line="25" column="61" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -189,7 +203,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>perma</text>
+        <text>compass_get_option</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGZhY3RvcnktPmRlZmluZShBcHBcTGluazo6Y2xhc3MsIGZ1bmN0aW9uIChGYWtlclxHZW5lcmF0b3IgJGZha2VyKSB7CglyZXR1cm4gWwoJCSd0aXRsZScgPT4gJGZha2VyLT5uYW1lLAoJCSd1cmwnID0+ICRmYWtlci0+dXJsLAoJCSdkZXNjcmlwdGlvbicgPT4gJGZha2VyLT5wYXJhZ3JhcGgsCgldOwp9KTsK</text>
@@ -226,15 +240,14 @@
       </register>
     </registers>
     <search>
-      <last-search>perma</last-search>
+      <last-search>compass_get_option</last-search>
       <last-offset />
-      <last-pattern>perma</last-pattern>
+      <last-pattern>compass_get_option</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>task-nane</entry>
         <entry>task</entry>
         <entry>get</entry>
         <entry>delete</entry>
@@ -244,7 +257,6 @@
         <entry>doc</entry>
         <entry>submit</entry>
         <entry>esc_attr</entry>
-        <entry>compass_get_option</entry>
         <entry>slider description</entry>
         <entry>slider_</entry>
         <entry>Save All</entry>
@@ -254,6 +266,8 @@
         <entry>Recent Posts</entry>
         <entry>Recent</entry>
         <entry>perma</entry>
+        <entry>get_header</entry>
+        <entry>compass_get_option</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
