@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1522613765241">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" timestamp="1524015390569">
-        <mark key="'" line="25" column="61" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/views/auth/header.php" timestamp="1524097517169">
+        <mark key="'" line="7" column="67" />
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/common/errors.blade.php" timestamp="1502686524516">
         <mark key="[" line="11" column="16" />
@@ -25,34 +23,11 @@
         <mark key="^" line="98" column="25" />
         <mark key="." line="98" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Providers/AppServiceProvider.php" timestamp="1502651747221">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/submit.blade.php" timestamp="1502690017535">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="5" column="39" />
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="39" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Daycare - Open Spaces LLC/website/dms/daycare_pro.sql" timestamp="1506295909098">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1502774975652">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/config/app.php" timestamp="1502739281957">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="63" />
-        <mark key="." line="40" column="32" />
-        <mark key="^" line="40" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/tasks.blade.php" timestamp="1502689997894">
         <mark key="[" line="7" column="0" />
@@ -60,14 +35,15 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/config/database.php" timestamp="1502739110159">
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="45" column="50" />
-        <mark key="." line="45" column="50" />
-        <mark key="^" line="45" column="50" />
-      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/index.php" timestamp="1522615249775">
         <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/config/development/config.php" timestamp="1524097361216">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="572" column="18" />
+        <mark key="]" line="573" column="1" />
+        <mark key="." line="573" column="1" />
+        <mark key="^" line="573" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/front-page.php" timestamp="1505747077549">
         <mark key="'" line="591" column="81" />
@@ -89,18 +65,75 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/seeds/LinksTableSeeder.php" timestamp="1502775033393">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/.env" timestamp="1513032224604">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/views/inc/sidebar.php" timestamp="1524097651382">
+        <mark key="[" line="84" column="97" />
+        <mark key="]" line="84" column="97" />
+        <mark key="^" line="84" column="97" />
+        <mark key="." line="84" column="97" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522613765241">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" timestamp="1524015390569">
+        <mark key="'" line="25" column="61" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Providers/AppServiceProvider.php" timestamp="1502651747221">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Daycare - Open Spaces LLC/website/dms/daycare_pro.sql" timestamp="1506295909098">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1502774975652">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/config/app.php" timestamp="1502739281957">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="63" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/config/database.php" timestamp="1502739110159">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="50" />
+        <mark key="." line="45" column="50" />
+        <mark key="^" line="45" column="50" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/language/english/daycare_lang.php" timestamp="1524097471664">
+        <mark key="'" line="398" column="10" />
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="398" column="2" />
+        <mark key="^" line="398" column="2" />
+        <mark key="." line="398" column="2" />
+      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/welcome.blade.php" timestamp="1502731477290">
         <mark key="'" line="89" column="49" />
         <mark key="[" line="87" column="38" />
         <mark key="]" line="87" column="40" />
         <mark key="^" line="87" column="40" />
         <mark key="." line="87" column="40" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/seeds/LinksTableSeeder.php" timestamp="1502775033393">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/resources/views/layouts/app.blade.php" timestamp="1502652957230">
         <mark key="[" line="0" column="4" />
@@ -113,12 +146,6 @@
         <mark key="]" line="15" column="24" />
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/.env" timestamp="1513032224604">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/database/seeds/TasksTableSeeder.php" timestamp="1502775011118">
         <mark key="[" line="14" column="26" />
@@ -197,16 +224,21 @@
       <jump line="20" column="66" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
       <jump line="23" column="16" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
       <jump line="25" column="61" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" />
+      <jump line="204" column="0" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/config/development/config.php" />
+      <jump line="148" column="9" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/language/english/daycare_lang.php" />
+      <jump line="398" column="10" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/language/english/daycare_lang.php" />
+      <jump line="2" column="5" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/views/auth/header.php" />
+      <jump line="7" column="67" filename="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/views/auth/header.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnRpdGxlIiBjb250ZW50PSJPcGVuIFNwYWNlIEVhcmx5IExlYXJuaW5nIENlbnRlciIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R2lhbnRzIA==</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>compass_get_option</text>
+        <text>author</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGZhY3RvcnktPmRlZmluZShBcHBcTGluazo6Y2xhc3MsIGZ1bmN0aW9uIChGYWtlclxHZW5lcmF0b3IgJGZha2VyKSB7CglyZXR1cm4gWwoJCSd0aXRsZScgPT4gJGZha2VyLT5uYW1lLAoJCSd1cmwnID0+ICRmYWtlci0+dXJsLAoJCSdkZXNjcmlwdGlvbicgPT4gJGZha2VyLT5wYXJhZ3JhcGgsCgldOwp9KTsK</text>
@@ -243,16 +275,14 @@
       </register>
     </registers>
     <search>
-      <last-search>compass_get_option</last-search>
+      <last-search>author</last-search>
       <last-offset />
-      <last-pattern>compass_get_option</last-pattern>
+      <last-pattern>author</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>task</entry>
-        <entry>get</entry>
         <entry>delete</entry>
         <entry>document</entry>
         <entry>docu</entry>
@@ -271,6 +301,8 @@
         <entry>perma</entry>
         <entry>get_header</entry>
         <entry>compass_get_option</entry>
+        <entry>copy</entry>
+        <entry>author</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -283,6 +315,7 @@
         <entry>wq</entry>
         <entry>1</entry>
         <entry>$</entry>
+        <entry>e!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
