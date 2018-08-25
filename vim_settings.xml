@@ -92,11 +92,12 @@
       <file name="/Dummy.txt" timestamp="1522613765241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" timestamp="1524015390569">
-        <mark key="'" line="25" column="61" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/OpenSpaceELC/wp-content/themes/daycamppro/header.php" timestamp="1535218770846">
+        <mark key="'" line="26" column="61" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="11" column="101" />
+        <mark key="." line="11" column="101" />
+        <mark key="^" line="11" column="101" />
       </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/genie/app/Providers/AppServiceProvider.php" timestamp="1502651747221">
         <mark key="[" line="19" column="36" />
@@ -277,7 +278,7 @@
         <text encoding="base64">CQkJLT53aXRoRXJyb3JzKCR2YWxpZGF0b3IpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -321,8 +322,8 @@
         <entry>1</entry>
         <entry>$</entry>
         <entry>e!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
