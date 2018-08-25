@@ -77,6 +77,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/views/inc/home.php" timestamp="1535218419840">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="97" />
+        <mark key="^" line="2" column="97" />
+        <mark key="." line="2" column="97" />
+      </file>
       <file name="$USER_HOME$/Dropbox/ChicagoWS/Documents/www/DayCarePro/application/views/inc/sidebar.php" timestamp="1524097651382">
         <mark key="[" line="84" column="97" />
         <mark key="]" line="84" column="97" />
@@ -271,7 +277,7 @@
         <text encoding="base64">CQkJLT53aXRoRXJyb3JzKCR2YWxpZGF0b3IpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -312,11 +318,11 @@
         <entry encoding="base64">dyA=</entry>
         <entry>!</entry>
         <entry encoding="base64">IA==</entry>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>$</entry>
         <entry>e!</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
