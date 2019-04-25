@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f80e0cbf-b74a-4c30-9971-136002cddd18" name="ltechs.com" url="http://www.openspaceelc.com">
+      <webServer id="f80e0cbf-b74a-4c30-9971-136002cddd18" name="ltechs.com" url="http://www.thelalanigroup.net/dms">
         <fileTransfer host="www.openspaceelc.com" port="2782" rootFolder="/home/ltechsco/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
